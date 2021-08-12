@@ -10,7 +10,9 @@
 ## Technologies to use:
 React (js), Webpack, Bootstrap, Git. Push everything to the Git repo and provide steps to start the application locally.
 ## Выполнены все задания.
-В файле Login.jsx закомментирован пример логики для 3 основного задания, а вне комментария для 3 основного и 2 дополнительного задания. Чтобы запустить приложение необходимо: 1. Запустить установленный сервер Express, для чего необходимо выполнить: $ node server.js. 2. Выполнить: $ npm start.# Getting Started with Create React App
+В файле Login.jsx закомментирован пример логики для 3 основного задания, а вне комментария для 3 основного и 2 дополнительного задания. Чтобы запустить приложение необходимо: 1. Запустить установленный сервер Express, для чего необходимо выполнить: $ node server.js. 2. Выполнить: $ npm start.
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
