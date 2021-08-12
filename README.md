@@ -1,4 +1,16 @@
-# Getting Started with Create React App
+# Приложение Task.
+## Задание:
+1. Unit application using React Framework;
+2. Create two main pages: 1. Login; 2. Home;
+3. Implement sign-in logic on the Login page;
+4. Implement show 9 posts item on the Home page using https://jsonplaceholder.typicode.com/ GET /posts request.
+## Optional Requirements:
+1. Create a page for adding post using https://jsonplaceholder.typicode.com/ POST /posts request;
+2. Restrict access to the home page until the user will log in.
+## Technologies to use:
+React (js), Webpack, Bootstrap, Git. Push everything to the Git repo and provide steps to start the application locally.
+## Выполнены все задания.
+В файле Login.jsx закомментирован пример логики для 3 основного задания, а вне комментария для 3 основного и 2 дополнительного задания. Чтобы запустить приложение необходимо: 1. Запустить установленный сервер Express, для чего необходимо выполнить: $ node server.js. 2. Выполнить: $ npm start.# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
