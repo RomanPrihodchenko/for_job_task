@@ -1,4 +1,4 @@
-# Приложение Task.
+# Приложение For job task.
 ## Задание:
 1. Unit application using React Framework;
 2. Create two main pages: 1. Login; 2. Home;
@@ -10,7 +10,8 @@
 ## Technologies to use:
 React (js), Webpack, Bootstrap, Git. Push everything to the Git repo and provide steps to start the application locally.
 ## Выполнены все задания.
-В файле Login.jsx закомментирован пример логики для 3 основного задания, а вне комментария для 3 основного и 2 дополнительного задания. Чтобы запустить приложение необходимо: 1. Запустить установленный сервер Express, для чего необходимо выполнить: $ node server.js. 2. Выполнить: $ npm start.
+В файле Login.jsx закомментирован пример логики для 3 основного задания, а вне комментария для 3 основного и 2 дополнительного задания.
+## Чтобы запустить приложение необходимо: 1. Запустить установленный сервер Express, для чего необходимо выполнить: $ node server.js. 2. Выполнить: $ npm start.
 
 # Getting Started with Create React App
 
